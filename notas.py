@@ -6,7 +6,6 @@ nota3 = float(input("Qual a sua nota: "))
 nota4 = float(input("Qual a sua nota: "))
 
 media = nota1 + nota2 + nota3 + nota4
-
 media_final = media / 4
 
-print(nome, "Sua nota final é: " , media_final)
+print("Olá, " , nome, "Sua média é: " , media_final , "pontos")
